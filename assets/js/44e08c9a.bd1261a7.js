@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[782],{4410:e=>{e.exports=JSON.parse('{"sourceUrl":"https://github.com/magicchex/roblox-template/blob/master","baseUrl":"/roblox-template/","classOrder":[],"apiCategories":[]}')}}]);
