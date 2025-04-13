@@ -1,14 +1,14 @@
-title = "Template Documentation"
-gitRepoUrl = "https://github.com/magicchex/roblox-template"
+title = "Tactics Game"
+gitRepoUrl = "https://github.com/magicchex/rblx-tactics"
 
 gitSourceBranch = "master"
 changelog = true
 classOrder = []
 
 [docusaurus] # https://docusaurus.io/docs/api/docusaurus-config
-title = 'Template Documentation'
+title = 'Tactics Game'
 url = 'https://chee-vang.com'
-baseUrl = "/roblox-template"
+baseUrl = "/rblx-tactics"
 favicon = "/assets/favicon.ico"
 # themeConfig = {}
 onBrokenLinks = "throw"
