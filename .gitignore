@@ -1,0 +1,21 @@
+# Moonwave
+build
+
+# python
+venv
+logs
+__pycache__
+# Wally Dependencies
+Packages
+
+# Hide env
+.env
+
+# Roblox place files
+*places
+*.rbxlx
+*.rbxl
+*.rbxlx.lock
+*.rbxl.lock
+# Rojo
+sourcemap.json

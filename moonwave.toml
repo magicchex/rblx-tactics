@@ -1,0 +1,27 @@
+title = "Template Documentation"
+gitRepoUrl = "https://github.com/magicchex/roblox-template"
+
+gitSourceBranch = "master"
+changelog = true
+classOrder = []
+
+[docusaurus] # https://docusaurus.io/docs/api/docusaurus-config
+title = 'Template Documentation'
+url = 'https://chee-vang.com'
+baseUrl = "/roblox-template"
+favicon = "/assets/favicon.ico"
+# themeConfig = {}
+onBrokenLinks = "throw"
+onBrokenMarkdownLinks = "warn"
+
+
+[footer]
+style = "dark"
+copyright = "Copyright © 2025 magicchex. Built with Moonwave and Docusaurus"
+
+# [[footer.links]]
+# title = "examples"
+
+# [[footer.links.items]]
+# label = "example"
+# href = "https://example.com/"
