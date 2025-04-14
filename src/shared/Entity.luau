@@ -1,6 +1,7 @@
 --[=[
     @class Entity
     An abstract class for characters and game objects
+    @within Entity
     @prop name string
 ]=]
 local Entity = {}
